@@ -1,0 +1,4 @@
+﻿  Fmgr.cpp
+c:\users\ломать\desktop\fmgr\cmdmgr.h(24): warning C4800: FILE *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Fmgr.vcxproj -> C:\Users\Ломать\Desktop\Fmgr\Debug\Fmgr.exe
+  Fmgr.vcxproj -> C:\Users\Ломать\Desktop\Fmgr\Debug\Fmgr.pdb (Full PDB)
